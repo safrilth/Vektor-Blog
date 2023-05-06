@@ -3,7 +3,7 @@
 ---
 
 
-Pada blog kali ini saya akan merangkumkan materi vektor. Materi vektor merupakan materi dasar yang bisa bermanfaat hingga kelas XII nanti (jika mengambil jurusan IPA), dan bisa tetap berguna jika mengambil jurusan MIPA / Teknik saat kuliah nanti.
+Pada blog kali ini saya akan merangkumkan materi vektor. Materi vektor merupakan materi dasar yang bisa bermanfaat hingga kelas XII nanti (jika mengambil jurusan IPA), dan bisa tetap berguna jika mengambil jurusan MIPA atau Teknik saat kuliah nanti.
 
 Daftar Isi :
 - Konsep Vektor
